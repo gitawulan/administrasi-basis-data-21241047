@@ -1,0 +1,1 @@
+SELECT * FROM dqlabpraktik3.ms_produk_dqlab;
